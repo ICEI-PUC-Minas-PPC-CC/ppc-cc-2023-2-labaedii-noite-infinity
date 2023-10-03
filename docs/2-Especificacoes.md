@@ -2,7 +2,7 @@
 
 ### Objetivo: 
 
-Armazenar os valores das operações matemáticas para ser possível adicionar/subtrair/multiplicar/dividir.
+Uma pilha para armazenar os valores das operações matemáticas para ser possível adicionar/subtrair/multiplicar/dividir em notação reversa.
 
 ### Campos:
 
