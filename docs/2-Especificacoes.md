@@ -6,5 +6,5 @@ Uma pilha para armazenar os valores das operações matemáticas para ser possí
 
 ### Campos:
 
-- int valor: O valor da operação.
-- struct Stack *prox: O próximo valor da operação.
+- int valor: O valor da operação matemática.
+- struct Stack *prox: O próximo valor da operação matemática.
